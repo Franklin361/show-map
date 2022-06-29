@@ -3,7 +3,7 @@
 
 &nbsp;
 
-![Image or Gif](https://socialistmodernism.com/wp-content/uploads/2017/07/placeholder-image.png)
+![Image or Gif](https://res.cloudinary.com/dnxchppfm/image/upload/v1656532596/posts/show-map/01_saje33.gif)
 
 &nbsp;
 
@@ -54,7 +54,7 @@
 ## **Links ⛓️**
 
 ### Demo of the application 🔥
-- 🔗
+- 🔗 https://show-maps-post.netlify.app
 
 ### Here's the link to the tutorial in case you'd like to take a look at it! eyes 👀
 
