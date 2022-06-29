@@ -1,4 +1,4 @@
-# **Mostrar mapa de MapBox con React. 🗺️**
+# **Show MapBox map with React. 🗺️**
 **Application to display a map from the MapBox library and execute events to add markers on the map. 🗺️**
 
 &nbsp;
