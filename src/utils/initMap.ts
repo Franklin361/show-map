@@ -6,7 +6,7 @@ const { VITE_KEY } = getEnvironments()
 
 export const initMap = (container: HTMLDivElement, coords: [number, number]) => {
     
-    return new Map({
+    const map = new Map({
         container,
         style: 'mapbox://styles/mapbox/dark-v10',
         pitchWithRotate: false,
@@ -15,5 +15,5 @@ export const initMap = (container: HTMLDivElement, coords: [number, number]) => 
         accessToken: VITE_KEY,
         doubleClickZoom: false
     });
-    
+    return map
 }
