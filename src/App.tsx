@@ -1,6 +1,12 @@
+import { Title } from "./components/Title"
+import { MapView } from './components/Map';
+
 const App = () => {
   return (
-    <div>Hello World</div>
+    <div>
+        <Title/>
+        <MapView/>
+    </div>
   )
 }
 export default App
