@@ -1,5 +1,5 @@
 # **Title Project 🍅**
-**Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.**
+**Application to display a map from the MapBox library and execute events to add markers on the map. 🗺️**
 
 &nbsp;
 
@@ -9,17 +9,18 @@
 
 ## **Features ⚙️**
 
-1. 
-2. 
-3. 
+1. View a full screen map.
+2. Place a marker at the initial position when loading the map.
+3. Add a new marker when double clicking on the map.
 
 &nbsp;
 
-## **Tecnologies 🧪**
+## **Technologies 🧪**
 
 - React JS
 - TypeScript
 - Vite JS
+- [MapBox](https://www.mapbox.com/)
 
 &nbsp;
 
@@ -28,7 +29,7 @@
 1. Clone the repository (you need to have [Git](https://git-scm.com) installed).
 
 ```shell
-    git clone [repository link]
+    git clone https://github.com/Franklin361/show-map
 ```
 
 2.  Install dependencies of the project.
@@ -53,10 +54,10 @@
 ## **Links ⛓️**
 
 ### Demo of the application 🔥
-- 🔗 https://find-your-place.netlify.app
+- 🔗
 
 ### Here's the link to the tutorial in case you'd like to take a look at it! eyes 👀
 
-- 🇲🇽 🔗 https://find-your-place.netlify.app
+- 🇲🇽 🔗 
 
-- 🇺🇲 🔗 https://find-your-place.netlify.app
+- 🇺🇲 🔗 
